@@ -80,18 +80,18 @@
 
 ---
 
-## 📊 Stats
+####  Stats
 
-📊 <b>This Week I Spent My Time On</b>
+<b>Time I Spend Most On every week</b>
 
 <!--START_SECTION:waka-->
 ```text
-Python                   5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   32.70 % 
-SQL                      4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   26.59 % 
-R                        1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-PowerBI & Tablue         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   25.55 % 
-HTML                     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-CSS                      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   12 hrs 0 mins    █████████████░░░░░░░░░░░░   32.70 % 
+SQL                      10 hrs 30 mins   ██████████░░░░░░░░░░░░░░░   26.59 % 
+R                        5 hr 30 mins     █████░░░░░░░░░░░░░░░░░░░░   13.85 % 
+PowerBI & Tablue         10 hrs           ██████████░░░░░░░░░░░░░░░   25.55 % 
+HTML                     1 hrs            ██░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+CSS                      1 hrs            ██░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -99,8 +99,12 @@ CSS                      2 mins          ░░░░░░░░░░░░░
 <details>
   <summary>&nbsp;&nbsp;<b>My Github Stats</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
+	<a href="https://github.com/ImHiteshJangid/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ImHiteshJangid&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/ImHiteshJangid/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImHiteshJangid&layout=compact&langs_count=8&card_width=320" />
+</a>
   <br/>
   <br/>
   ⚠ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
