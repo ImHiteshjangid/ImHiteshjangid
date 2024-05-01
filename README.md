@@ -15,16 +15,16 @@
 
 ## ⚡️ A Few Quick Facts:
 
-- 🎓 **Information Technology** Bachelor
-- 🌱 I'm currently learning:
+- **Information Technology** Bachelor
+- I'm currently learning:
   - Learning and exploring advanced machine learning techniques.
   - Big Data and Cloud Computing
   - Deep learning and AI
   - Building interactive data visualizations.
-- 📙 Check out my resume.
+- Check out my resume.
 
 
-## </> Things I Code With
+##  </> Things I Code With
 
 ####  Programming languages
 
@@ -78,11 +78,9 @@
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 </p>
 
----
+##  📊 Stats
 
-####  Stats
-
-<b>Time I Spend Most On every week</b>
+<b>Time I Spend Every Week On</b>
 
 <!--START_SECTION:waka-->
 ```text
