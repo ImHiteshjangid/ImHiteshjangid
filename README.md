@@ -1,12 +1,8 @@
-<center>
+<div align="center">
+  <h1> Hey there! Welcome to my profile! 👋</h1>
+</div>
 
-# Welcome to my profile! 👋
-
-</center>
-
-
-# Hey 👋, I'm Hitesh Jangid
-**I'm Currently exploring the vast world of data science, with a strong aspiration to become a Data Scientist. continuously learning and growing in this major field. [Here](https://github.com/ImHiteshjangid?tab=repositories), you'll find a collection of my projects and contributions!**
+**My name is Hitesh Jangid. I'm Currently exploring the vast world of data science, with a strong aspiration to become a Data Scientist. continuously learning and growing in this major field. [Here](https://github.com/ImHiteshjangid?tab=repositories), you'll find a collection of my projects and contributions!**
 
 
 <p>
