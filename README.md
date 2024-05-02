@@ -1,5 +1,12 @@
+<center>
+
+# Welcome to my profile! 👋
+
+</center>
+
+
 # Hey 👋, I'm Hitesh Jangid
-**I'm Currently exploring the vast world of data science to become a Data Scientist. continuously learning and growing in this major field of data science. [Here](https://github.com/ImHiteshjangid?tab=repositories), you'll find a collection of my projects and contributions!**
+**I'm Currently exploring the vast world of data science, with a strong aspiration to become a Data Scientist. continuously learning and growing in this major field. [Here](https://github.com/ImHiteshjangid?tab=repositories), you'll find a collection of my projects and contributions!**
 
 
 <p>
